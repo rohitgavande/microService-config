@@ -2,7 +2,7 @@ build:
  version: "3.0"
  
 accounts:
- message: "Welcome to Eazybank Account related local API's - PROD"
+ message: "Welcome to Eazybank Account related local API's - PRODUCTION"
  ContactDetails:
   name: "Rohit- Developer - PROD"
   email: "{cipher}a55ba8bed7485722a577e22c38a82e0cb431139324b0dc1f678b190920680942m"
